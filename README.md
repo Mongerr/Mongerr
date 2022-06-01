@@ -21,7 +21,11 @@ Here are some ideas to get you started:
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sem6169)](https://solved.ac/sem6169)
 
+[Eunmin Seo](https://www.notion.so/Eunmin-Seo-52a180363b5444589d781a10e1f37b8a)
+
+<!--
 <img src="http://mazandi.herokuapp.com/api?handle=sem6169&theme=dark"/>
+-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mongerr&show_icons=true&theme=flag-india)
 
